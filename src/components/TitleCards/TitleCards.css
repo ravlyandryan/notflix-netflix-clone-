@@ -25,10 +25,7 @@
     position: absolute;
     bottom: 5px;
     right: 10px;
+    text-decoration: none;
+    color: white;
     text-align: right;
-    text-shadow:
-        0.07em 0 black,
-        0 0.07em black,
-        -0.07em 0 black,
-        0 -0.07em black;
 }
